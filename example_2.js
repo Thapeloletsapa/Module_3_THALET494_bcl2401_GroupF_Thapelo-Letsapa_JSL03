@@ -1,3 +1,5 @@
+//Declarative Approach
+
 function cookSteak(steakWeight, desiredDoneness) {
     const grillTemperatureCelsius = 204; 
     const seasoning = 'Salt and Pepper';
